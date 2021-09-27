@@ -1,0 +1,5 @@
+Open cmd prompt (terminal window) on api-server folder path
+ 
+npm install -g json-server
+
+json-server --watch -p 8000 data.json

@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Item One",
+      "description": "Super Widget",
+      "status": "Available"
+    },
+    {
+      "id": 2,
+      "name": "Item Two",
+      "description": "Gadget",
+      "status": "Available"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Manish Sharma",
+      "designation": "Consultant",
+      "location": "Pune"
+    },
+    {
+      "id": 1,
+      "name": "Ramakant Debata",
+      "designation": "Architect",
+      "location": "Gurgaon"
+    }
+  ]
+}
